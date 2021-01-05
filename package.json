@@ -1,15 +1,16 @@
 {
   "name": "png2lua",
   "version": "1.0.0",
-  "description": "",
+  "description": "Read png files ito base64 and outputs a lua file that can be imported as a image cache later",
   "main": "png2lua.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Danilo Almeida",
+  "license": "MIT",
   "dependencies": {
     "pngjs": "^6.0.0"
-  }
+  },
+  "devDependencies": {}
 }
