@@ -11,6 +11,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
+            "cwd": "C:\\Users\\User\\lab\\src\\elkum\\integral_handles_gadget\\src",
             "program": "${workspaceFolder}\\png2lua.js",
             "args": ["*"]
         }
